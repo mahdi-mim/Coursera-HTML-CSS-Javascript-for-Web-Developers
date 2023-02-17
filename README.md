@@ -6,6 +6,6 @@ Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-develope
 ## Module #2 Coding Assignment Solution
    code url: https://github.com/mahdi-mim/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/main/module2-solution  
    Hosted url: https://mahdi-mim.github.io/Coursera-HTML-CSS-Javascript-for-Web-Developers/module2-solution/
-   ## Module #3 Coding Assignment Solution
+## Module #3 Coding Assignment Solution
    code url: https://github.com/mahdi-mim/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/main/module3-solution  
    Hosted url: https://mahdi-mim.github.io/Coursera-HTML-CSS-Javascript-for-Web-Developers/module3-solution/
